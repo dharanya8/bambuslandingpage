@@ -82,7 +82,7 @@ const technologies = [
 const Technologies = () => {
   return (
     <section id="technologies" className="py-10 bg-gray-50">
-      <div className="container-fluid mx-auto px-16">
+      <div className="container-fluid mx-auto px-4 md:px-16">
         {/* Heading */}
         <div className="text-center max-w-2xl mx-auto mb-12">
           <span className="text-emerald-600 font-semibold text-sm uppercase tracking-wider">

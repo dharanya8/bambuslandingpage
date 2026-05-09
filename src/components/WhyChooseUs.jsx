@@ -18,7 +18,7 @@ const features = [
 const WhyChooseUs = () => {
   return (
     <section className="py-2 bg-gradient-to-br from-gray-50 to-emerald-50/30">
-      <div className="container-fluid mx-auto px-16">
+      <div className="container-fluid mx-auto px-4 md:px-16">
         <div className="text-center max-w-2xl mx-auto mb-12">
           <div className="inline-flex items-center gap-2 bg-white shadow-md px-5 py-2 rounded-full mb-4">
             <Zap className="w-4 h-4 text-emerald-600" />

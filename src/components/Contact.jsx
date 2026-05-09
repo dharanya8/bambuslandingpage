@@ -24,7 +24,7 @@ const Contact = () => {
 
   return (
     <section id="contact" className="py-10 bg-white">
-      <div className="container-fluid mx-auto px-16">
+      <div className="container-fluid mx-auto px-4 md:px-16">
         <div className="text-center max-w-2xl mx-auto mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
             Get In <span className="text-emerald-600">Touch</span>

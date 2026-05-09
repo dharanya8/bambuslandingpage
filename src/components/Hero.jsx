@@ -31,7 +31,7 @@ const Hero = () => {
           <div className="absolute -bottom-8 left-20 w-72 h-72 bg-cyan-400 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-4000"></div>
         </div>
 
-        <div className="container-fluid mx-auto px-16 relative z-10">
+        <div className="container-fluid mx-auto px-8 md:px-16 relative z-10">
           <div className="flex flex-col lg:flex-row items-center gap-12">
             {/* Left Content */}
             <div className="flex-1 text-center lg:text-left animate-fade-in-up">

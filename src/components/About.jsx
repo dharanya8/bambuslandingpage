@@ -5,7 +5,7 @@ import { CheckCircle2, Users, Award, Clock, Globe } from 'lucide-react';
 const About = () => {
   return (
     <section id="about" className="py-2 bg-white">
-      <div className="container-fluid mx-auto px-16">
+      <div className="container-fluid mx-auto px-4 md:px-16">
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="flex-1 order-2 lg:order-1">
             <span className="text-emerald-600 font-semibold text-sm uppercase tracking-wider">About Us</span>

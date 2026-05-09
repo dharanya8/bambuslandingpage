@@ -65,8 +65,8 @@ const services = [
 
 const Services = () => {
   return (
-    <section id="services" className="py-20 bg-gray-50">
-      <div className="container-fluid mx-auto px-16">
+    <section id="services" className="py-10 bg-gray-50">
+      <div className="container-fluid mx-auto px-4 md:px-16">
         <div className="text-center max-w-3xl mx-auto mb-12">
           <span className="text-emerald-600 font-semibold text-sm uppercase tracking-wider">What We Do</span>
           <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mt-2 mb-4">

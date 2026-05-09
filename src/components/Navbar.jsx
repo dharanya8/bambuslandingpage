@@ -27,7 +27,7 @@ const Navbar = () => {
     <header className={`fixed w-full z-50 transition-all duration-500 ${
       scrolled ? 'bg-white/95 backdrop-blur-md shadow-lg py-3' : 'bg-white py-5'
     }`}>
-      <nav className="container-fluid mx-auto flex justify-between items-center px-16">
+      <nav className="container-fluid sm:mx-auto md:mx-auto flex justify-between items-center px-4 md:px-16">
         {/* Logo */}
         <a href="#home" className="flex items-center gap-2 group cursor-pointer">
           <div className="w-10 h-10 bg-gradient-to-br from-emerald-500 to-teal-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
