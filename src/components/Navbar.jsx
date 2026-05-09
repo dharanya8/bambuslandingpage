@@ -51,7 +51,7 @@ const Navbar = () => {
           ))}
           <div className="flex items-center gap-2 bg-emerald-50 px-2 py-2 rounded-full">
             <Phone className="w-4 h-4 text-emerald-600" />
-            <span className="text-sm font-medium text-emerald-700">+91 93445 67746</span>
+            <span className="text-sm font-medium text-emerald-700">+91  9894568371</span>
           </div>
           <button className="bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white px-3 py-2 rounded-full font-medium transition-all duration-300 hover:shadow-lg hover:scale-105">
             Get Started
